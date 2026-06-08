@@ -1,0 +1,10 @@
+{
+  "studioName": "Azure Functions Studio",
+  "version": "1.0.0",
+  "status": "operational",
+  "environment": "staging",
+  "config": {
+    "execution": "func azure functionapp publish app",
+    "validation": "func azure functionapp list"
+  }
+}
